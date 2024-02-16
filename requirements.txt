@@ -1,1 +1,4 @@
-basedosdados
+jupyterlab
+pandas
+numpy
+matplotlib
